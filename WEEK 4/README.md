@@ -1,5 +1,9 @@
 ## Week 4 Report
 
+Resources
+- [Task Board](https://trello.com/b/5rsYMCG3)
+- [Current Journal]()
+
 ### This Weeks Goals
 - [ ] Figure Out Data Situation
   - [MedPAR](https://www.cms.gov/data-research/files-for-order/limited-data-set-lds-files/medpar-limited-data-set-lds-hospital-national)
@@ -25,7 +29,7 @@
 ## __New Timeline:__
 - Feb. 7- Present datsets that will be used and work on literature review for paper
 - Feb. 13- Preprocessing: Gather and prepare the Medicare Advantage claims data by identifying relevant datasets, cleaning inconsistencies, and curating variables needed for the analysis.
-- Feb. 21- EDA, Methods and Results: Include identifying high-risk conditions for readmissions, determining significant risk factors, and quantifying their impact.
+- Feb. 21- EDA, Methods and Results: Include identifying high-risk conditions for readmissions, determining significant risk factors within discharges, and quantifying their impact.
 - **Feb.25- PRESENTATION: clean dataset, and visualizations to work with**
 - March 3- Work on any revision and feedback from the presentation
 - March 14- Formulate Solutions: For the most significant high-risk conditions, we will propose interventions targeting the identified risk factors, focusing on improving patient outcomes and reducing costs
