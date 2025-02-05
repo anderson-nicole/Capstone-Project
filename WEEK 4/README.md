@@ -22,7 +22,7 @@
 ### Challenges
 - Getting the data we need without going broke
 
-##__New Timeline:__
+## __New Timeline:__
 - Feb. 7- Present datsets that will be used and work on literature review for paper
 - Feb. 13- Preprocessing: Gather and prepare the Medicare Advantage claims data by identifying relevant datasets, cleaning inconsistencies, and curating variables needed for the analysis.
 - Feb. 21- EDA, Methods and Results: Include identifying high-risk conditions for readmissions, determining significant risk factors, and quantifying their impact.
