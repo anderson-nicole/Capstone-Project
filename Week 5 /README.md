@@ -6,7 +6,7 @@ This Weeks Goals:
 * [ ] 
 
 Tasks Completed: 
-- [ ] 
+- [ ] task 1
 
 Next Steps: 
 - 
