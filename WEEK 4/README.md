@@ -6,22 +6,22 @@ Resources
 
 ### This Weeks Goals
 - [ ] Figure Out Data Situation
-  - [MedPAR](https://www.cms.gov/data-research/files-for-order/limited-data-set-lds-files/medpar-limited-data-set-lds-hospital-national)
+  - [MedPAR](https://www.cms.gov/data-research/files-for-order/limited-data-set-lds-files/medpar-limited-data-set-lds-hospital-national): **Have Contacted and can't get no matter what without paying**
     - Pros: Contains near all the data we need, would just limit our scope but not to harshly
-    - Cons: For what we need and request through ResDAC, it should be free to my knowledge but con is the request process. 
+    - Cons: Cost Money 
   - [HCUP's National Readmission Database](https://hcup-us.ahrq.gov/nrdoverview.jsp)
     - Pros: Contains all the data we would need
     - Cons: Costs $200 but quicker getting time
   - [HBioStat's Set](https://archive.ics.uci.edu/dataset/880/support2)
   - Potential for Synthetic Data ([Synthea](https://synthetichealth.github.io/synthea/))
     - Pros: Could be formated to contain all the data we would need if we did have the real data
-    - Cons: Findings would represent a real population distribution or cases. 
-- [ ] Finalize Problem Statment Once We Have Data
-- [ ] Work On Finding Articles Related To Overall Topic with a Focus on ROI Reference to determine gain Medicare Advantage plans would have if they implemented our project.
-- [ ] Finalize Overall Plan for Project
+    - Cons: Findings wouldn't represent a real population distribution or cases. 
+- [X] Work On Finding Articles Related To Overall Topic with a Focus on ROI Reference to determine gain Medicare Advantage plans would have if they implemented our project.
+
 
 ### Next Steps
-- 
+- [ ] Finalize Overall Plan for Project
+- [ ] Finalize Problem Statment Once We Have Data
 
 ### Challenges
 - Getting the data we need without going broke
