@@ -16,7 +16,7 @@ Resources
     - Cons: 
   - Potential for Synthetic Data ([Synthea](https://synthetichealth.github.io/synthea/))
     - Pros: Could be formated to contain all the data we would need if we did have the real data
-    - Cons: Findings wouldn't represent a real population distribution or cases. 
+    - Cons: Findings wouldn't represent a real population distribution or cases, that is if the randomization gives us anything to "find" at all.
 - [X] Work On Finding Articles Related To Overall Topic with a Focus on ROI Reference to determine gain Medicare Advantage plans would have if they implemented our project.
 
 ### Notes
