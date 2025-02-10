@@ -1,6 +1,6 @@
 Week 2 Report
 
-[Task Board](https://trello.com/b/5rsYMCG3/capstone-project-tasks)
+[Task Board](https://github.com/users/anderson-nicole/projects/2)
 
 This Weeks Goals:
 * [ ] holder
