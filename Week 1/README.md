@@ -11,9 +11,6 @@ Resources
   - [HCUP's National Readmission Database](https://hcup-us.ahrq.gov/nrdoverview.jsp)
     - Pros: Contains all the data we would need
     - Cons: Costs $200 but quicker getting time and would be limited to one year
-  - [HBioStat's Set](https://archive.ics.uci.edu/dataset/880/support2)
-    - Pros:
-    - Cons: 
   - Potential for Synthetic Data ([Synthea](https://synthetichealth.github.io/synthea/))
     - Pros: Could be formated to contain all the data we would need if we did have the real data
     - Cons: Findings wouldn't represent a real population distribution or cases, that is if the randomization gives us anything to "find" at all.
