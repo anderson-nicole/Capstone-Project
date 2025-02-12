@@ -1,8 +1,8 @@
-Week 5 Report
+# Week 5 Report
 
 [Task Board](https://github.com/users/anderson-nicole/projects/2)
 
-**This Weeks Goals:**
+## **This Weeks Goals:**
 * [ ] E-mail RasDAC for second opinion on the data and if we can get some for free
 * [ ] E-mail Gabriel Terejanu about data
 * [ ] Look into the MIMIC Dataset
