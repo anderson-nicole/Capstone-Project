@@ -3,8 +3,8 @@
 [Task Board](https://github.com/users/anderson-nicole/projects/2)
 
 ## **This Weeks Goals:**
-* [x] E-mail RasDAC for second opinion on the MedPAR/Any LDS data such as the 5%/20% and if we can get some for free: 
-  - They said no as well
+* [x] E-mail RasDAC for second opinion on the MedPAR data/LDSand if we can get some for free: 
+  - They said to contact CMS and CMS already said no
   - Original one from CMS: ![image](https://github.com/user-attachments/assets/50e8ac9c-9387-420e-ae6e-213146e7f544)
 
 * [x] E-mail Gabriel Terejanu about data
