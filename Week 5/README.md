@@ -6,11 +6,11 @@
 * [x] E-mail RasDAC for second opinion on the MedPAR/Any LDS data such as the 5%/20% and if we can get some for free: 
   - They said no as well 
 * [x] E-mail Gabriel Terejanu about data
-      - Dataset he sent was more like the aggregated stuff that wasn't useful for us in terms of original plan
+  - Dataset he sent was more like the aggregated stuff that wasn't useful for us in terms of original plan
 * [x] Finalize Plan for Moving Forward
-      - We will be going back to the basic prompt given as we couldn't find anything individual on readmissions and discharges without having to pay. Due to questionable breakdown through data we do have as to what may be the risk factors (orginally we were looking at discharges), it may morph into a meta-analysis of other studies who had access to data where they could evaluate risk factors related to those conditions.
+  - We will be going back to the basic prompt given as we couldn't find anything individual on readmissions and discharges without having to pay. Due to questionable breakdown through data we do have as to what may be the risk factors (orginally we were looking at discharges), it may morph into a meta-analysis of other studies who had access to data where they could evaluate risk factors related to those conditions.
 * [x] Finalize Problem Statement
-      - Utilizing HCUPNet and Aggregate Medicare data, we aim to identify two conditions that have higher rates of readmission to then review published articles for what may be risk factors cause the readmissions that could be mitigated with new policy implementations within hospitals. These polies would hopefully prevent readmissions to improve patient outcomes and ensure a hospital isn't left with unpaid care due to MA plans refusing to pay. 
+  - Utilizing HCUPNet and Aggregate Medicare data, we aim to identify two conditions that have higher rates of readmission to then review published articles for what may be risk factors cause the readmissions that could be mitigated with new policy implementations within hospitals. These polies would hopefully prevent readmissions to improve patient outcomes and ensure a hospital isn't left with unpaid care due to MA plans refusing to pay. 
 
 Next Steps: 
 - Identify Top Two Conditions based on HCUPNet
