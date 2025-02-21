@@ -1,1 +1,1 @@
-This Section contains the main code files for the project 
+## This section contains the main deliverables for the project including code and written reports
